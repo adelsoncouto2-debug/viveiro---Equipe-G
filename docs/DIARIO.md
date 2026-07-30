@@ -26,6 +26,7 @@
  - Dificuldade com a organização do grupo.
  - Entendimento das tarefas definidas.
  - Comprometimento de certos integrantes.
+   
 **Decisões tomadas:** *(com a justificativa de cada uma)*
  - Foi decidido as tarefas de cada integrante, pois o grupo estava desorganizado e por isso desconcentrado.
  - Foi separado quais histórias cada integrante está responsável para organização e otimização da realização da tarefa. 
