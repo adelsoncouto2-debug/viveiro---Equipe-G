@@ -21,9 +21,10 @@
 | ID | Quem trabalhou | Tempo (min) |
 | --- | --- | --- |
 | V-02 | Adelson | 10 min |
-| V-04 | Adelson | 8 min |
+| V-04 | Adelson | 6 min |
 | V-06 | Adelson | 12 min |
-| V-07 | Yuri    | 10 min |
+| V-07 | Yuri | 5 min |
+| V-08 | Adelson | 4 min |
 
 **Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)* 
  - Dificuldade com a organização do grupo.
