@@ -8,8 +8,8 @@
 
 ## Encontro 1 — 30/07 (aula)
 
-**Presentes:** Adelson, Yuri e Arthur
-**Escriba:** Arthur
+**Presentes:** Adelson, Yuri e Arthur.
+**Escriba:** Arthur.
 
 **O que se pretendia:** Divisão das tarefas do grupo e fazer o registro de triagem no backlog.
 **O que se realizou:** Divisão das tarefas do grupo e inicio da analise das histórias do backlog.
