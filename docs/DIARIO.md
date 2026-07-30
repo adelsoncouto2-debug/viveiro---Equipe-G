@@ -23,6 +23,7 @@
 | V-02 | Adelson | 10 min |
 | V-04 | Adelson | 8 min |
 | V-06 | Adelson | 12 min |
+| V-07 | Yuri    | 10 min |
 
 **Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)* 
  - Dificuldade com a organização do grupo.
