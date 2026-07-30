@@ -17,6 +17,7 @@
 **Tempo gasto por história:**
 
 | ID | Quem trabalhou | Tempo (min) |
+| --- | --- | --- |
 | V-02 | Adelson | 10 min |
 | V-04 | Adelson | 7 min |
 | V-06 | Adelson | 5 min |
