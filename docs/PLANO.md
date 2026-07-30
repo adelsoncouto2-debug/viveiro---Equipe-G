@@ -8,7 +8,7 @@
 > Uma frase, verificável, acordada com o cliente. Tudo o que entrar no
 > compromisso deve servir a ela.
 
-*(escrever aqui)*
+Realizar o registro de triagem.
 
 ## 2. Compromisso
 
