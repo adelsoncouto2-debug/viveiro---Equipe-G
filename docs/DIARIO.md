@@ -17,8 +17,11 @@
 **Tempo gasto por história:**
 
 | ID | Quem trabalhou | Tempo (min) |
+---
 |V-02|Adelson|? min|
+---
 |V-04|Adelson|7 min|
+---
 |V-06|Adelson|5 min|
 
 **Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)* 
