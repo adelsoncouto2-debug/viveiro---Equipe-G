@@ -36,18 +36,25 @@
  - Foi separado quais histórias cada integrante está responsável para organização e otimização da realização da tarefa. 
 ---
 
-## Sessão extra — [data], [duração]
+## Sessão extra — 05/08, 40 minutos
 
-**Como foi combinada:** *(quando se marcou, por qual meio, quem confirmou)*
-**Presentes:**
-**Escriba:**
+**Como foi combinada:** a reunião foi marcada para às 14:30
+**Presentes:** Adelson, Yuri, Arthur, Nicolas, Mateus e Felipe
+**Escriba:** Felipe
 
-**O que se realizou:**
+**O que se realizou:** Durante essa reunião o grupo apontou as alterações realizadas no backlog e combinaram sobre a divisão de palavras no glossário
 
 | ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+| V-02 | Yuri | 9 min |
+| V-02 | Adelson | 11 min |
+| V-02 | Felipe | 7 min |
+| V-02 | Mateus | 5 min |
+| V-02 | Nicolas | 8 min |
 
-**Impedimentos e decisões:**
+
+
+**Impedimentos e decisões:** Não houveram impedimentos, uma vez que todos os membros foram cientes do objetivo da reunião e o que havia de ser feito, foi decidido que cada um do grupo ficaria responsável por 2 palavras, havendo de ser enviadas no mesmo dia 
+
 
 ---
 
