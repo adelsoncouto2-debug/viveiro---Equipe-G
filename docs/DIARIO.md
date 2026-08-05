@@ -39,12 +39,15 @@
 ## Sessão extra — 05/08, 40 minutos
 
 **Como foi combinada:** a reunião foi marcada para às 14:30
+
 **Presentes:** Adelson, Yuri, Arthur, Nicolas, Mateus e Felipe
+
 **Escriba:** Felipe
 
 **O que se realizou:** Durante essa reunião o grupo apontou as alterações realizadas no backlog e combinaram sobre a divisão de palavras no glossário
 
 | ID | Quem trabalhou | Tempo (min) |
+| --- | --- | --- |
 | V-02 | Yuri | 9 min |
 | V-02 | Adelson | 11 min |
 | V-02 | Felipe | 7 min |
