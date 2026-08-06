@@ -239,7 +239,10 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
 <h1>Triagem</h1>
 
 V-02: A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto 
+
 V-03: Adicionamos dois requisitos para quando o projeto estiver pronto:  não permitir títulos duplicados,  existir limite para o tamanho do resumo.
+
 V-04: Ajustamos para definir os conceitos de amigável e adicionamos mais um requisito para estar pronto os filtros podem ser utilizados junto com a pesquisa por palavras-chave.
+
 V-05:  Adicionamos mais um requisito não funcional: o usuário recebe confirmação ao entrar ou sair do grupo.
 
