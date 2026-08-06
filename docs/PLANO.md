@@ -1,14 +1,11 @@
-# Plano da sprint — [nome da equipe] · base [V-?]
+# Plano da sprint — Equipe-G
 
 > Preenchido na reunião de planejamento (30/07) e atualizado a cada encontro
 > pelo escriba. As seções seguem a ordem em que serão usadas.
 
 ## 1. Meta da sprint
 
-> Uma frase, verificável, acordada com o cliente. Tudo o que entrar no
-> compromisso deve servir a ela.
-
-Realizar o registro de triagem.
+ > Realizar o registro de triagem.
 
 ## 2. Compromisso
 
@@ -17,8 +14,8 @@ Realizar o registro de triagem.
 
 | ID | História | Estimativa inicial (horas) | Reestimativa 13/08 (pontos) | Situação ao final |
 |---|---|---|---|---|
-| V-?? | | | | |
-| V-?? | | | | |
+| V-02 | | 1h | | |
+| V-04 | | 1h30min | | |
 
 **Capacidade assumida pela equipe:** ____ horas
 (4 encontros + sessões extras previstas)
