@@ -26,13 +26,14 @@
 > outra; não fragmentar.
 
 ### A fazer
-- V-??
+- PRONTO.md
 
 ### Em andamento
-- V-??
+- Mata do sprint (06/08)
 
 ### Concluído
 *(critérios de aceitação verificados — ver PRONTO.md)*
+ - Backlog concluído (05/08)
 
 ## 4. Registro da renegociação de escopo — 13/08
 
