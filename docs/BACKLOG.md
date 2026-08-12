@@ -237,7 +237,7 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
 - **B-06** — a data aparece como `2026-03-14` em vez de `14/03/2026`.
 
 <h1>Triagem</h1>
-<i> A palavra dentro dos parênteses indica o estado da história antes da mesma ser corrigida pela nossa equipe</i>
+> A palavra dentro dos parênteses indica o estado da história antes da mesma ser corrigida pela nossa equipe
 
 V-02 (Errado) : A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto
 
