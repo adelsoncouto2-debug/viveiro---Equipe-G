@@ -237,12 +237,20 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
 - **B-06** — a data aparece como `2026-03-14` em vez de `14/03/2026`.
 
 <h1>Triagem</h1>
+<i> A palavra dentro dos parênteses indica o estado da história antes da mesma ser corrigida pela nossa equipe</i>
 
-V-02: A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto 
+V-02 (Errado) : A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto
 
-V-03: Adicionamos dois requisitos para quando o projeto estiver pronto:  não permitir títulos duplicados,  existir limite para o tamanho do resumo.
+V-03 (Incompleto): Adicionamos dois requisitos para quando o projeto estiver pronto:  não permitir títulos duplicados,  existir limite para o tamanho do resumo.
 
-V-04: Ajustamos para definir os conceitos de amigável e adicionamos mais um requisito para estar pronto os filtros podem ser utilizados junto com a pesquisa por palavras-chave.
+V-04 (Errado): Ajustamos para definir os conceitos de amigável e adicionamos mais um requisito para estar pronto os filtros podem ser utilizados junto com a pesquisa por palavras-chave.
 
-V-05:  Adicionamos mais um requisito não funcional: o usuário recebe confirmação ao entrar ou sair do grupo.
+V-05(Incompleto):  Adicionamos mais um requisito não funcional: o usuário recebe confirmação ao entrar ou sair do grupo.
+
+V-06(Incompleto):  Adicionamos mais detalhes no para do cliente 
+
+V-07(Incompleto): Adicionamos mais um requisito: o autor da ideia consegue visualizar a lista completa de interessados.
+
+V-08 (Errado) : O pronto tem linguagem inadequada para um backlog, adicionamos então dois requisitos os dados devem ser recuperados automaticamente ao recarregar a página e os dados são salvos automaticamente durante a edição;
+
 
