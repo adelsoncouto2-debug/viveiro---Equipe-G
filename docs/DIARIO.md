@@ -61,6 +61,35 @@
 
 ---
 
+## Sessão extra — 12/08, 60 minutos
+
+ **Como foi combinada:** a reunião foi marcada para às 14:30
+
+
+**Presentes:** Adelson, Yuri, Arthur, Felipe, Mateus e Nicolas
+
+**Escriba:** Yuri
+
+**O que se realizou:** Houve a discussão sobre as etapas posteriores do projeto, com preenchimento dos documentos restantes e preparação para a mudança do código e correção dos erros.
+
+**Tempo gasto por história:**
+
+| ID | Quem trabalhou | Tempo (min) |
+| --- | --- | --- |
+|  |  Adelson | 15 min |
+|  | Nicolas | 6 min |
+|  | Yuri | 12 min |
+|  | Felipe | 7 min |
+|  | Arthur  | 10 min |
+|  | Mateus  | 10 min |
+
+
+**Impedimentos encontrados:** 
+-Houveram impedimentos relacionados ao atraso de alguns membros para a reunião 
+---
+
+
+
 > Repetir o bloco adequado para cada encontro (06/08, 13/08, 20/08) e para
 > cada sessão extra. Não apagar blocos de sessões que não aconteceram:
 > registrar "não houve sessão extra nesta semana" também é registro.
