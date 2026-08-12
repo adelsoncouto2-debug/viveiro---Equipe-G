@@ -72,7 +72,6 @@
 
 **O que se realizou:** Houve a discussão sobre as etapas posteriores do projeto, com preenchimento dos documentos restantes e preparação para a mudança do código e correção dos erros.
 
-**Tempo gasto por história:**
 
 | ID | Quem trabalhou | Tempo (min) |
 | --- | --- | --- |
@@ -83,9 +82,8 @@
 |  | Arthur  | 10 min |
 |  | Mateus  | 10 min |
 
+**Impedimentos encontrados:**  Houveram impedimentos relacionados ao atraso de alguns membros para a reunião 
 
-**Impedimentos encontrados:** 
--Houveram impedimentos relacionados ao atraso de alguns membros para a reunião 
 ---
 
 
