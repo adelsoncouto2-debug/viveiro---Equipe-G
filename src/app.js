@@ -9,10 +9,10 @@
 */
 
 var estado = {
-  pessoa: null,      // id da pessoa que está navegando
-  busca: "",         // texto digitado
-  tag: null,         // tag clicada, se houver
-  aba: "mural"
+  pessoa: null, // id da pessoa que está navegando
+  busca: "", // texto digitado
+  tag: null, // tag clicada, se houver
+  aba: "mural",
 };
 
 /* ------------------------------------------------ atalhos aos dados */
@@ -37,27 +37,42 @@ function ideiaPorId(id) {
 }
 
 /* ------------------------------------------------------- filtragem */
+function normalizarTexto(texto) {
+  return texto
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
 
 function ideiasVisiveis() {
   var resultado = [];
+
+  var busca = normalizarTexto(estado.busca.trim());
+
   for (var i = 0; i < DADOS.ideias.length; i++) {
     var ideia = DADOS.ideias[i];
 
     // filtro por texto
-    var casaTexto = true;
-    if (estado.busca !== "") {
-      casaTexto = ideia.titulo.includes(estado.busca) ||
-                  ideia.resumo.includes(estado.busca);
-    }
+    var titulo = normalizarTexto(ideia.titulo);
+    var resumo = normalizarTexto(ideia.resumo);
 
+    var casaTexto = true;
+
+    if (busca !== "") {
+      casaTexto = titulo.includes(busca) || resumo.includes(busca);
+    }
     // filtro por tag
     var casaTag = true;
+
     if (estado.tag !== null) {
       casaTag = ideia.tags.indexOf(estado.tag) >= 0;
     }
-
-    if (casaTexto && casaTag) resultado.push(ideia);
+    // resultado final
+    if (casaTexto && casaTag) {
+      resultado.push(ideia);
+    }
   }
+
   return resultado;
 }
 
@@ -72,7 +87,7 @@ function desenhar() {
 
 function desenharSeletorDePessoas() {
   var alvo = document.getElementById("quem");
-  if (alvo.options.length > 0) return;   // só monta uma vez
+  if (alvo.options.length > 0) return; // só monta uma vez
   for (var i = 0; i < DADOS.pessoas.length; i++) {
     var p = DADOS.pessoas[i];
     var opcao = document.createElement("option");
@@ -180,7 +195,12 @@ function desenharGrupos() {
 
 function criarCliqueDeTag(tag) {
   return function () {
-    estado.tag = tag;
+    if (estado.tag === tag) {
+      estado.tag = null;
+    } else {
+      estado.tag = tag;
+    }
+
     desenhar();
   };
 }
@@ -194,10 +214,14 @@ function criarCliqueDeApoio(idIdeia) {
 
 function trocarAba(qual) {
   estado.aba = qual;
-  document.getElementById("mural").className = (qual === "mural") ? "" : "escondido";
-  document.getElementById("grupos").className = (qual === "grupos") ? "" : "escondido";
-  document.getElementById("aba-mural").className = (qual === "mural") ? "aba ativa" : "aba";
-  document.getElementById("aba-grupos").className = (qual === "grupos") ? "aba ativa" : "aba";
+  document.getElementById("mural").className =
+    qual === "mural" ? "" : "escondido";
+  document.getElementById("grupos").className =
+    qual === "grupos" ? "" : "escondido";
+  document.getElementById("aba-mural").className =
+    qual === "mural" ? "aba ativa" : "aba";
+  document.getElementById("aba-grupos").className =
+    qual === "grupos" ? "aba ativa" : "aba";
 }
 
 /* --------------------------------------------------------- início */
@@ -214,8 +238,12 @@ function iniciar() {
     estado.pessoa = Number(e.target.value);
   };
 
-  document.getElementById("aba-mural").onclick  = function () { trocarAba("mural"); };
-  document.getElementById("aba-grupos").onclick = function () { trocarAba("grupos"); };
+  document.getElementById("aba-mural").onclick = function () {
+    trocarAba("mural");
+  };
+  document.getElementById("aba-grupos").onclick = function () {
+    trocarAba("grupos");
+  };
 
   desenhar();
 }
