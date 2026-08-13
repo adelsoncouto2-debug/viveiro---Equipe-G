@@ -75,7 +75,7 @@
 
 | ID | Quem trabalhou | Tempo (min) |
 | --- | --- | --- |
-|  |  Adelson | 15 min |
+| V-05 |  Adelson | 15 min |
 |  | Nicolas | 6 min |
 |  | Yuri | 12 min |
 |  | Felipe | 7 min |
