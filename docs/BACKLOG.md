@@ -236,22 +236,17 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
 - **B-05** — título comprido vaza para fora do cartão e atravessa o cartão vizinho.
 - **B-06** — a data aparece como `2026-03-14` em vez de `14/03/2026`.
 
-<h1>Triagem</h1>
-<i>A palavra dentro dos parênteses indica o estado da história antes da mesma ser corrigida pela nossa equipe</i>
 
+## Registro da triagem — 30/07
 
-V-02 (Errado) : A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto
-
-V-03 (Incompleto): Adicionamos dois requisitos para quando o projeto estiver pronto:  não permitir títulos duplicados,  existir limite para o tamanho do resumo.
-
-V-04 (Errado): Ajustamos para definir os conceitos de amigável e adicionamos mais um requisito para estar pronto os filtros podem ser utilizados junto com a pesquisa por palavras-chave.
-
-V-05(Incompleto):  Adicionamos mais um requisito não funcional: o usuário recebe confirmação ao entrar ou sair do grupo.
-
-V-06(Incompleto):  Adicionamos mais detalhes no para do cliente 
-
-V-07(Incompleto): Adicionamos mais um requisito: o autor da ideia consegue visualizar a lista completa de interessados.
-
-V-08 (Errado) : O pronto tem linguagem inadequada para um backlog, adicionamos então dois requisitos os dados devem ser recuperados automaticamente ao recarregar a página e os dados são salvos automaticamente durante a edição;
+| História | Situação em que foi recebida | O que foi alterado | Justificativa |
+|---|---|---|---|
+| V-02 | Com a estrutura errada | A estrutura da história se alterou para a forma como, quero e para, além de inserirmos uma definição mais estruturada para quando estará pronto. | Pois a estrutura estava errada |
+| V-03 | Com os requisitos errados | Adicionamos dois requisitos para quando o projeto estiver pronto:  não permitir títulos duplicados,  existir limite para o tamanho do resumo. | Pois estava incompleto |
+| V-04 | Com os conceitos errados | Ajustamos para definir os conceitos de amigável e adicionamos mais um requisito para estar pronto os filtros podem ser utilizados junto com a pesquisa por palavras-chave. | Pois os conceitos estavam errados |
+| V-05 | Com falta de requisitos | Adicionamos mais um requisito não funcional: o usuário recebe confirmação ao entrar ou sair do grupo. | Pois os requisitos estavam faltando |
+| V-06 | Com falta de detalhes | Adicionamos mais detalhes no para do cliente. | Pois os detalhes estavam faltando |
+| V-07 | Com requisitos incompletos | Adicionamos mais um requisito: o autor da ideia consegue visualizar a lista completa de interessados. |  Pois os requisitos estavam incompletos |
+| V-08 | Com linguagem inadequada | O pronto tem linguagem inadequada para um backlog, adicionamos então dois requisitos os dados devem ser recuperados automaticamente ao recarregar a página e os dados são salvos automaticamente durante a edição. |  Pois a linguagem estava inadequada |
 
 
