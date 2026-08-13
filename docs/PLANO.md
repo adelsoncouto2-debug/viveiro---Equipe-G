@@ -16,8 +16,16 @@ A meta consiste em analisar as histórias herdadas, identificar pontos que preci
 
 | ID | História | Estimativa inicial (horas) | Reestimativa 13/08 (pontos) | Situação ao final |
 |---|---|---:|---:|---|
-| V-02 | Filtro por curso | 1h | 7 pts | |
-| V-04 | Encontrar ideias que combinam comigo | 1h30min | 9 pts | |
+| V-02 | Filtro por curso | 1h | 8 pts | |
+| V-03 | Publicar uma ideia | 1h30min | 5 pts | |
+| V-04 | Encontrar ideias que combinam comigo | 1h30min | 8 pts | |
+| V-05 | Entrar e sair de um grupo | 2h30min | 13 pts | |
+| V-06 | Estados da ideia | 1h | 5 pts | |
+| V-07 | Registrar interesse em participar | 1h15min | 8 pts | |
+| V-08 | Não perder o que foi escrito | 1h30min | 8 pts | |
+
+
+
 
 **Capacidade assumida pela equipe:** ____ horas  
 *(4 encontros + sessões extras previstas)*
