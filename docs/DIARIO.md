@@ -8,7 +8,7 @@
 
 ## Encontro 1 — 30/07 (aula)
 
-**Presentes:** Adelson, Yuri e Arthur.
+**Presentes:** Adelson, Mateus, Yuri e Arthur.
 
 **Escriba:** Arthur.
 
