@@ -107,6 +107,13 @@ function desenharMural() {
     alvo.appendChild(montarCartao(lista[i]));
   }
 
+  if (lista.length === 0) {
+    var vazio = document.createElement("p");
+    vazio.textContent = "Nenhuma ideia encontrada.";
+    vazio.className = "sem-resultados";
+    alvo.appendChild(vazio);
+  }
+
   document.getElementById("contagem").textContent =
     lista.length + " de " + DADOS.ideias.length + " ideias";
 
@@ -209,6 +216,7 @@ function criarCliqueDeApoio(idIdeia) {
   return function () {
     var ideia = ideiaPorId(idIdeia);
     ideia.apoios = ideia.apoios + 1;
+    desenharMural();
   };
 }
 
